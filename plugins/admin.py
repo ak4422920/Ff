@@ -200,7 +200,8 @@ async def broadcast_users(bot, message):
         f"🗑️ Deleted: <code>{deleted}</code>\n"
         f"❌ Failed: <code>{failed}</code>"
     )
-    await techifybots_status_msg.edit(final_status)
+    await techifybots_status_msg.delete()
+    await message.reply(final_status)
 
 @Client.on_message(filters.command("grp_broadcast") & filters.user(ADMINS) & filters.private)
 async def broadcast_group(bot, message):

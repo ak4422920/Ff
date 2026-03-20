@@ -6,7 +6,7 @@ class script(object):
 <blockquote><i>✨ ꜱᴇᴀʀᴄʜ ᴀɴʏ ᴀɴɪᴍᴇ ᴄᴏɴᴛᴇɴᴛ ɪɴ ꜱᴇᴄᴏɴᴅꜱ.</i></blockquote></b>"""
 
     ABOUT_TXT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://telegram.me/{}>{}</a>
-‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://telegram.me/ComicArc'>ʀᴀʜᴜʟ</a> 
+‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://telegram.me/AK_ownerbot'>AK_owner</a> 
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -128,7 +128,7 @@ class script(object):
 
 <b>‣ ꜱɪᴢᴇ : </b>{file_size}
 
-<b>🍁 ʙʏ : <a href="https://telegram.me/techifybots">[ ᴛᴇᴄʜɪꜰʏʙᴏᴛs ]</a></b>"""
+<b>🍁 ʙʏ : <a href="https://telegram.me/akmovieverse">[ AkMovieVerse ]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """<b><a href={url}>{title} (<a href={url}/releaseinfo>{year}</a>)
 
@@ -153,14 +153,14 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 
     PREMIUM_TEXT = """<blockquote>🎖️ <b>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs</b></blockquote>
 
-◉ 𝟶𝟽 ᴅᴀʏꜱ - 𝟷𝟶 ₹  / 𝟷𝟶 ꜱᴛᴀʀ
-◉ 𝟷𝟻 ᴅᴀʏꜱ - 𝟸𝟶 ₹  / 𝟸𝟶 ꜱᴛᴀʀ
-◉ 𝟹𝟶 ᴅᴀʏꜱ - 𝟺𝟶 ₹  / 𝟺𝟶 ꜱᴛᴀʀ
-◉ 𝟺𝟻 ᴅᴀʏꜱ - 𝟻𝟻 ₹  / 𝟻𝟻 ꜱᴛᴀʀ
-◉ 𝟼𝟶 ᴅᴀʏꜱ - 𝟽𝟻 ₹  / 𝟽𝟻 ꜱᴛᴀʀ
+◉ 𝟶𝟽 ᴅᴀʏꜱ - 𝟷5 ₹  / 𝟷5 ꜱᴛᴀʀ
+◉ 𝟷𝟻 ᴅᴀʏꜱ - 3𝟶 ₹  / 3𝟶 ꜱᴛᴀʀ
+◉ 𝟹𝟶 ᴅᴀʏꜱ - 6𝟶 ₹  / 6𝟶 ꜱᴛᴀʀ
+◉ 𝟺𝟻 ᴅᴀʏꜱ - 80 ₹  / 80 ꜱᴛᴀʀ
+◉ 𝟼𝟶 ᴅᴀʏꜱ - 100 ₹  / 100 ꜱᴛᴀʀ
 
 •─────•─────────•─────•
-🏷️ <a href='https://telegram.me/TechifyBots'>ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ ᴘʀᴏᴏꜰ</a>
+🏷️ <a href='https://telegram.me/AkMovieVerse'>ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ ᴘʀᴏᴏꜰ</a>
 
 ‼️ ᴍᴜꜱᴛ ꜱᴇɴᴅ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀꜰᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.
 ‼️ ᴀꜰᴛᴇʀ ꜱᴇɴᴅɪɴɢ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇᴛɪᴍᴇꜱ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ."""
@@ -169,7 +169,7 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 
 ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ʙᴜʏ ᴏᴜʀ ᴘʀᴇᴍɪᴜᴍ ꜱᴇʀᴠɪᴄᴇ ᴜꜱɪɴɢ ᴛᴇʟᴇɢʀᴀᴍ ꜱᴛᴀʀꜱ.  
 
-ɪꜰ ʏᴏᴜ ꜰᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ᴛᴀᴋᴇ ᴀ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀɴᴅ ꜱᴇɴᴅ ɪᴛ ᴛᴏ - @CallOwnerBot
+ɪꜰ ʏᴏᴜ ꜰᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ᴛᴀᴋᴇ ᴀ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀɴᴅ ꜱᴇɴᴅ ɪᴛ ᴛᴏ - @AK_ownerbot
 
 ꜱᴇʟᴇᴄᴛ ʏᴏᴜʀ ᴅᴇꜱɪʀᴇᴅ ᴀᴍᴏᴜɴᴛ ᴀɴᴅ ᴘᴜʀᴄʜᴀꜱᴇ ᴀ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ.</b>"""
 

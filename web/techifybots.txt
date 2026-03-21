@@ -926,12 +926,12 @@
 
     <header class="header">
         <div class="header-content">
-            <a href="https://telegram.me/ComicArc" class="logo"> Techify Bots </a>
+            <a href="https://telegram.me/AkMovieVerse" class="logo"> Techify Bots </a>
 
             <nav class="nav">
                 <a href="#video-section">Stream</a>
                 <a href="#explore">Explore</a>
-                <a href="https://telegram.me/CallOwnerBot">Contact</a>
+                <a href="https://telegram.me/AK_ownerbot">Contact</a>
             </nav>
 
             <button class="mobile-menu">
@@ -1062,24 +1062,24 @@
                         channels
                     </p>
                     <div class="card-links">
-                        <a href="https://telegram.me/ComicArc" class="card-link">
-                            <span>Comic Arc</span>
+                        <a href="https://telegram.me/AkMovieVerse" class="card-link">
+                            <span>AkMovieVerse</span>
                             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                 stroke-width="2">
                                 <line x1="5" y1="12" x2="19" y2="12"></line>
                                 <polyline points="12 5 19 12 12 19"></polyline>
                             </svg>
                         </a>
-                        <!-- <a href="https://telegram.me/ComicArc" class="card-link">
-                            <span>Techify Bots</span>
+                        <!-- <a href="https://telegram.me/PurelySin" class="card-link">
+                            <span>TPurelySin</span>
                             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                 stroke-width="2">
                                 <line x1="5" y1="12" x2="19" y2="12"></line>
                                 <polyline points="12 5 19 12 12 19"></polyline>
                             </svg>
                         </a> -->
-                        <a href="https://telegram.me/Techifybots" class="card-link">
-                            <span>Techify Bots</span>
+                        <a href="https://telegram.me/akmovieverse" class="card-link">
+                            <span>AkMovieVerse</span>
                             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                 stroke-width="2">
                                 <line x1="5" y1="12" x2="19" y2="12"></line>
@@ -1102,32 +1102,32 @@
                         Intelligent bots for enhanced streaming and automated assistance
                     </p>
                     <div class="card-links">
-                        <a href="https://telegram.me/QuickAcceptBot" class="card-link">
-                            <span>Approve Bot</span>
+                        <a href="https://telegram.me/AkVerseXBot" class="card-link">
+                            <span>Search Bot</span>
                             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                 stroke-width="2">
                                 <line x1="5" y1="12" x2="19" y2="12"></line>
                                 <polyline points="12 5 19 12 12 19"></polyline>
                             </svg>
                         </a>
-                        <a href="https://telegram.me/AdvanceCaptionBot" class="card-link">
-                            <span>Caption Bot</span>
+                        <a href="https://telegram.me/Hydra_Forwarder_Bot" class="card-link">
+                            <span>Forward Bot</span>
                             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                 stroke-width="2">
                                 <line x1="5" y1="12" x2="19" y2="12"></line>
                                 <polyline points="12 5 19 12 12 19"></polyline>
                             </svg>
                         </a>
-                        <a href="https://telegram.me/AutoSequenceBot" class="card-link">
-                            <span>Sequence Bot</span>
+                        <a href="https://telegram.me/akadulthub_bot" class="card-link">
+                            <span>AkAdultHub Bot</span>
                             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                 stroke-width="2">
                                 <line x1="5" y1="12" x2="19" y2="12"></line>
                                 <polyline points="12 5 19 12 12 19"></polyline>
                             </svg>
                         </a>
-                        <a href="https://telegram.me/YukiAssistBot" class="card-link">
-                            <span>Multi Tasking Bot</span>
+                        <a href="https://telegram.me/DesiSinXBot" class="card-link">
+                            <span>DesiSinXBot</span>
                             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                 stroke-width="2">
                                 <line x1="5" y1="12" x2="19" y2="12"></line>
@@ -1143,7 +1143,7 @@
 
     <footer class="footer">
         <p>
-            &copy; 2026 <a href="https://telegram.me/TechifyBots">TechifyBots</a>. All Rights
+            &copy; 2026 <a href="https://telegram.me/akmovieverse">AkMovieVerse</a>. All Rights
             Reserved.
         </p>
     </footer>

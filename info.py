@@ -33,7 +33,7 @@ AUTH_REQ_CHANNELS = [int(ch) for ch in environ.get("AUTH_REQ_CHANNELS", "-100203
 REQST_CHANNEL = int(ch) if (ch := environ.get("REQST_CHANNEL", "-1002505014127")) and id_pattern.search(ch) else None
 SUPPORT_CHAT_ID = int(ch) if (ch := environ.get("SUPPORT_CHAT_ID", "-1002401879443")) and id_pattern.search(ch) else None
 
-OWNER = int(os.environ.get("OWNER", "1255023013"))
+OWNER = int(os.environ.get("OWNER", "6522435665"))
 CHANNEL_LINK = environ.get('CHANNEL_LINK', 'https://telegram.me/AkMovieVerse')
 GROUP_LINK = environ.get('GROUP_LINK', 'https://t.me/movie_seriesgroup')
 

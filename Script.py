@@ -1,9 +1,9 @@
 class script(object):
     START_TXT = """<b>{}, {}
 
-ɪ ᴀᴍ <a href="https://telegram.me/{}">{}</a>, ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀɴɪᴍᴇ ᴀᴜᴛᴏ-ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ ❤‍🔥
+ɪ ᴀᴍ <a href="https://telegram.me/{}">{}</a>, ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ-ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ ❤‍🔥
 
-<blockquote><i>✨ ꜱᴇᴀʀᴄʜ ᴀɴʏ ᴀɴɪᴍᴇ ᴄᴏɴᴛᴇɴᴛ ɪɴ ꜱᴇᴄᴏɴᴅꜱ.</i></blockquote></b>"""
+<blockquote><i>✨ ꜱᴇᴀʀᴄʜ ᴀɴʏ ᴄᴏɴᴛᴇɴᴛ ɪɴ ꜱᴇᴄᴏɴᴅꜱ.</i></blockquote></b>"""
 
     ABOUT_TXT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://telegram.me/{}>{}</a>
 ‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://telegram.me/AK_ownerbot'>AK_owner</a> 

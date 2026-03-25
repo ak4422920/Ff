@@ -124,7 +124,7 @@ class script(object):
 
 ‣ ᴍᴇssᴀɢᴇ : {}</b>"""
 
-    CAPTION = """<b>‣ ɴᴀᴍᴇ : </b><i>{file_name}</i>
+    CAPTION = """<b>‣ ɴᴀᴍᴇ : </b><i><a href="https://t.me/AkMovieVerse">{file_name}</a></i>
 
 <b>‣ ꜱɪᴢᴇ : </b>{file_size}
 

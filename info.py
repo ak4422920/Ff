@@ -49,7 +49,7 @@ IMAGE_FETCH = bool(environ.get('IMAGE_FETCH', True))
 LINK_PREVIEW = bool(environ.get('LINK_PREVIEW', True))
 ABOVE_PREVIEW = bool(environ.get('ABOVE_PREVIEW', False))
 TMDB_API_KEY = environ.get('TMDB_API_KEY', '56b50689afe7438a51aab0d653679865')
-TMDB_POSTER = bool(environ.get('TMDB_POSTER', True))
+TMDB_POSTER = bool(environ.get('TMDB_POSTER', False))
 LANDSCAPE_POSTER = bool(environ.get('LANDSCAPE_POSTER', True))
 
 IS_VERIFY = is_enabled('IS_VERIFY', False)
